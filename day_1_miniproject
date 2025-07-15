@@ -7,6 +7,21 @@ generates a well-formatted Digital ID Card as output. The program should use app
  input/output functions, and string formatting techniques (like f-strings) to display the information 
  in a clean and structured format.
 """
-
+# Collecting user information
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+gender = input("Enter your gender: ")
+City = input("Enter your city: ")
+CollageName= input("Enter Collage/Schoole: ")
+CurrentYear=input("Enter Current year of Study: ")
+Field=input("Enter Field Of study: ")
+# Generating the Digital ID Card
+print(f"Name                    :  {name}")
+print(f"Age                     :  {age}")
+print(f"Gender                  :  {gender}")
+print(f"City                    :  {City}")
+print(f"Collage Name            :  {CollageName}")
+print(f"Current Year of Study   :  {CurrentYear}")
+print(f"Field of Study          :  {Field}")
 
 
