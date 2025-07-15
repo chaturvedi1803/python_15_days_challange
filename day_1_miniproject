@@ -1,0 +1,12 @@
+#Python Mini Project – Day 1
+"""
+Project Title: Personal Digital ID Card Generator
+📝 Problem Statement:
+Design and implement a Python program that collects basic personal information from the user and 
+generates a well-formatted Digital ID Card as output. The program should use appropriate variables,
+ input/output functions, and string formatting techniques (like f-strings) to display the information 
+ in a clean and structured format.
+"""
+
+
+
